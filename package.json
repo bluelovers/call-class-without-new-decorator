@@ -1,0 +1,22 @@
+{
+  "name": "call-class-without-new-decorator",
+  "version": "1.0.0",
+  "description": "Call class constructor without new on TypeScript",
+  "homepage": "https://github.com/bluelovers/call-class-without-new-decorator#readme",
+  "bugs": {
+    "url": "https://github.com/bluelovers/call-class-without-new-decorator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelovers/call-class-without-new-decorator.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
